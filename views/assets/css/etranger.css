@@ -1,0 +1,23 @@
+
+
+.card{
+	overflow: hidden;
+	height: 370px;
+}
+
+.image-article img{
+	cursor:pointer;
+	transition: .5s;
+}
+
+.image-article img:hover{
+	transform: scale(1.2);
+}
+
+.card-body {
+	padding: 20px;
+ }
+
+ .image-article {
+ 	overflow: hidden;
+ }
