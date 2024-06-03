@@ -1,20 +1,15 @@
 
-     <header class="site-header">
+    <header class="site-header">
             <div class="container">
                 <div class="row">
                     
                     <div class="col-lg-8 col-12 d-flex flex-wrap">
-                        <p class="d-flex me-4 mb-0 address">
-                                <!-- <i class="bi-geo-alt me-2"></i> -->
-                                <!-- Boulevard de Mohammedia. QI Azli 40150 Marrakech Morocco -->
-                        </p>
+                        <p class="d-flex me-4 mb-0 address"></p>
 
                         <p class="d-flex mb-0">
                             <i class="bi-envelope me-2"></i>
 
-                            <a href="mailto:info@company.com" class='email'>
-                                <!-- tawjih@company.com -->
-                            </a>
+                            <a href="mailto:info@company.com" class='email'></a>
                         </p>
                     </div>
 

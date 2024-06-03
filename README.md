@@ -1,18 +1,16 @@
 # tawjihwebsite
 /////////////////////////////////////////////////////////////////////////////////////////////////////
-- entrer " admin " dans le lien pour acceder au formulaire login :
-  login : admin@gmail.com 
-  password : Admin1234
+- Enter "admin" in the link to access the login form:
+Username: admin@gmail.com
+Password: Admin1234
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
-- lorseque admin ajouter un nouvau admin le mot de passe par defaut est leur adresse email
+- When an admin adds a new admin, the default password is their email address.
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
-- entrer " login-responsable " dans le lien pour acceder au formulaire login.
-  
+- Enter "login-manager" in the link to access the login form.
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
-- lorseque admin ajouter un nouvau responsable le mot de passe par defaut est leur adresse email
-
+- When an admin adds a new manager, the default password is their email address.
 /////////////////////////////////////////////////////////////////////////////////////////////////////
